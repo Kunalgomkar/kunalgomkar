@@ -11,10 +11,18 @@
 ---
 
 ## 🚀 About Me
-🔹 Data Analyst | 6 months experience at codons company  
-🔹 Skills: Python, SQL, Power BI, Excel  
-🔹 Passionate about Data Analytics, Visualization & Business Insights  
-🔹 Currently exploring Machine Learning & Projects
+
+- 📊 Data Analyst with **6 months of hands-on experience** at **Codon’s Technologies**
+- 🔍 Experienced in **data cleaning, preprocessing, and analysis** of real-world datasets
+- 📈 Skilled at converting raw data into **actionable business insights**
+- 📊 Strong interest in **data visualization & interactive dashboards**
+- 🛠 Proficient in **Python, SQL, Power BI, and Advanced Excel**
+- 🧠 Passionate about **Data Analytics, Data Storytelling & Business Intelligence**
+- 🤖 Currently exploring **Machine Learning concepts and projects**
+- 🎓 Pursuing **B.Tech in Computer Science & Data Science** (2026)
+- 🚀 Always eager to learn new tools and technologies
+- 💡 Focused on **data-driven problem solving**
+
 
 ---
 ### 🛠️ Tech Stack
@@ -71,4 +79,6 @@
 
 ---
 
-⭐ **If you like my profile, consider starring my r
+⭐ **If you find my profile interesting, drop a star!** ⭐
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen)
