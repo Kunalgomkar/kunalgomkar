@@ -1,6 +1,12 @@
 # KunalGomkar
-<!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1D9BF0&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Kunal+Gomkar;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Welcome+to+my+GitHub+Profile!" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF8C00&height=200&section=header&text=Welcome%20Data%20Explorer!&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+</div>
+
+<!-- Main animated typing line -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&pause=1000&color=F57F17&width=800&lines=Data+Analyst+%7C+Power+BI+Developer+%7C+Prompt+Engineer;Python+%7C+SQL+%7C+Excel+Specialist;Transforming+Data+Into+Business+Insights;Passionate+About+Analytics%2C+Visualization+%26+AI;Delivering+Data-Driven+Decisions+for+Real+Impact"/>
+</div>
 
 ---
 
