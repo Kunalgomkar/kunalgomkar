@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 📊 Data Analyst with **6 months of hands-on experience** at **Codon’s Technologies**
+- 📊 Data Analyst with **6 months of hands-on experience** at **Codon’s Company**
 - 🔍 Experienced in **data cleaning, preprocessing, and analysis** of real-world datasets
 - 📈 Skilled at converting raw data into **actionable business insights**
 - 📊 Strong interest in **data visualization & interactive dashboards**
